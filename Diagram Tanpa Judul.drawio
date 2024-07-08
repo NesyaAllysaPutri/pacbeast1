@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T17:13:24.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hQoFBAzzvbrqQhwMi4la" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-08T17:15:14.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="y8Gt34nO0wZ5T-_2bkwT" version="24.6.4" type="github" pages="3">
   <diagram name="Halaman-1" id="mFAMGpBnL3orxLiHFRy2">
     <mxGraphModel dx="1000" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yUz1dSbO-UxTp6TTSO6r" name="Halaman-2">
-    <mxGraphModel dx="246" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,6 +251,18 @@
         </mxCell>
         <mxCell id="Q0nook-oQKbV4iD3vowV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5fhDBI6ij0UwNYenE2X-11" target="B5fhDBI6ij0UwNYenE2X-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nook-oQKbV4iD3vowV-26" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="275" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nook-oQKbV4iD3vowV-27" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="398" y="240" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nook-oQKbV4iD3vowV-29" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="398.5" y="210" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nook-oQKbV4iD3vowV-30" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-24;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="180" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
